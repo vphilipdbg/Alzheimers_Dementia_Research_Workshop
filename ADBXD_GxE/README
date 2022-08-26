@@ -1,0 +1,19 @@
+description: Female congenic C57BL/6J mice hemizygous for the dominant 5XFAD transgene
+    (Oakley et al., 2006), which consists of 5 human mutations known to cause familial
+    AD [three in amyloid precursor protein (APP; Swedish: K670N, M671L, Florida: I716V,
+    and London: V717I) and two in presenilin 1 (PSEN1; M146L and L286V), were obtained
+    from The Jackson Laboratory JAX MMRRC Stock No: 34848-JAX. These mice were bred
+    with 64 males from a set of genetically diverse recombinant inbred strains from
+    the well-established BXD genetic reference panel (Peirce et al., 2004). The F1
+    progeny resulting from this B6-5XFAD by BXD cross are isogenic recombinant inbred
+    backcross mice, each harboring one maternally derived B allele and either a B
+    or D paternally derived allele at any given genomic locus. As expected from a
+    Mendelian pattern of inheritance, approximately 50% of these F1 mice carry the
+    5XFAD transgene (termed AD-BXDs) and approximately 50% are non-transgenic (Ntg)
+    littermate controls referred to Ntg- BXDs
+
+
+treatments_list: Mice were fed either a normal chow diet (LabDiet 5K0G) or a 45%
+    high-fat, high-sugar diet (ResearchDiet D12451i) starting at 2.5mo of age.
+
+total_number_animals: 9537
